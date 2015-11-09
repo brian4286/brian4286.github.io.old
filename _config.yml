@@ -3,7 +3,7 @@ title:       The notes of a sys admin
 email:       your_email@example.com
 author:      Brian Haun
 description: "Randomness that may only be useful for me"
-baseurl:     ""
+baseurl:     "https://brian.haun.me"
 url:         "/"
 date_format: "%b %-d, %Y"
 
@@ -24,8 +24,8 @@ disqus_shortname:
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
-facebook_comments: 
-facebook_appid: 
+facebook_comments:
+facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
