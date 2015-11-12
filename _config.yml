@@ -1,10 +1,10 @@
 # Site settings
-title:       The notes of a sys admin
+title:       brian4286
 email:       your_email@example.com
 author:      Brian Haun
 description: "Randomness that may only be useful for me"
 baseurl:     "https://brian.haun.me"
-url:         "/"
+url:         ""
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -14,8 +14,8 @@ google_verification:
 # Optional features
 animated:             false
 show_related_posts:   true
-show_post_footers:    false
-show_social_icons:    false
+show_post_footers:    true
+show_social_icons:    true
 ajaxify_contact_form: false
 
 # Disqus post comments
@@ -29,12 +29,12 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: brian4286
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: brian4286
 google_plus_id:
-linkedin_username:
+linkedin_username: Brian Haun
 angellist_username:
 medium_id:
 bitcoin_url:
@@ -42,16 +42,16 @@ paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 share_text: 'Share this post!'
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
+share_facebook: true
+share_twitter: true
 share_googleplus: false
-share_linkedin: false
+share_linkedin: true
 share_digg: false
 share_tumblr: false
-share_reddit: false
+share_reddit: true
 share_stumbleupon: false
 share_hackernews: false
 
