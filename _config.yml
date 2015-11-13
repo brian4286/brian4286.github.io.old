@@ -1,9 +1,9 @@
 # Site settings
 title:       brian4286
-email:       your_email@example.com
+email:       remove-the-spaces --> b r i a n ]at[ h a u n dot n e t
 author:      Brian Haun
 description: "Randomness that may only be useful for me"
-baseurl:     "https://brian.haun.me"
+baseurl:     ""
 url:         ""
 date_format: "%b %-d, %Y"
 
@@ -43,16 +43,16 @@ flattr_button:
 
 # Post sharing icons
 show_sharing_icons: true
-share_text: 'Share this post!'
+share_text: 'Share this!'
 # Change to 'true' to enable individual icons
 share_facebook: true
 share_twitter: true
 share_googleplus: false
 share_linkedin: true
 share_digg: false
-share_tumblr: false
+share_tumblr: true
 share_reddit: true
-share_stumbleupon: false
+share_stumbleupon: true
 share_hackernews: false
 
 # Build settings
